@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Kursov_4_project.PrjPCB|ReportField=ProjectFullPath~D:\Downloads\4 курс\Курсовой Захарова\Alt_ukorochen_STM\Kursov_4_project.PrjPCB|ReportField=Title~Bill of Materials For Project [Kursov_4_project.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~50|ReportField=ReportTime~20:21:45|ReportField=ReportDate~09.12.2023|ReportField=ReportDateTime~09.12.2023 20:21:45|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Буянкина|ReportField=CheckedBy~Захарова|ReportField=CompanyName~|ReportField=CurrentDate~09.12.2023|ReportField=CurrentTime~20:19:55|ReportField=Date~|ReportField=DecimalNumber~Децимальный номер|ReportField=DocumentFullPathAndName~D:\Downloads\4 курс\Курсовой Захарова\Alt_ukorochen_STM\Sheet2.SchDoc|ReportField=DocumentName~Sheet2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=HeadOfSector~|ReportField=ImagePath~|ReportField=MainDevice~Перв.примен.|ReportField=ModifiedDate~03.12.2023|ReportField=Name~Наименование|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.35|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9|ReportField=ProjectName~Kursov_4_project.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~Наименование|ReportField=DataSourceFileName~Kursov_4_project.PrjPCB|ReportField=DataSourceFullPath~D:\Downloads\4 курс\Курсовой Захарова\Alt_ukorochen_STM\Kursov_4_project.PrjPCB
+C||C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24|R1206|C|22
+C+||C13, C14|Rc3216|C+|2
+AOZ1073||DD1|AOZ1073|AOZ1073|1
+ADM3485||DD2|ADM3485|ADM3485|1
+STM32F4||DD3|STM32F4xx|STM32F4|1
+L||L1, L2|R1206|L|2
+Res||R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14|R1206|Res|14
+BUTTON||SB1|RESET_BUTTON|BUTTON|1
+DG301||X1|DG301|DG301|1
+PLS-4||X2|PLS4|PLS-4|1
+DG301_3||X3|DG301 - 3|DG301_3|1
+PBS-7||X4|PBS7|PBS-7|1
+XH2.54||X5|XH2.54 5p|XH2.54|1
+KR||ZQ1|HC-49SM|KR|1
